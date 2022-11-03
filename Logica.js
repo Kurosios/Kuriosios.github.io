@@ -24,8 +24,8 @@ function Atras(){
     tres.classList.add("hidden")
     num = 2;
   }else if (num == 4){
-    cuatro.classList.remove("hidden")
-    tres.classList.add("hidden")
+    tres.classList.remove("hidden")
+    cuatro.classList.add("hidden")
     num = 3;
   }
   
