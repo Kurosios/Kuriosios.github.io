@@ -272,3 +272,35 @@ input:hover::placeholder{
   font-size: 16px;
 font-weight: bold;
 }
+
+/*------------------------------------------------Separadores-----------------------------------*/
+.c-s{
+  width: 100%;
+  text-align: center;
+  font-family: 'Poor Story', cursive;
+  margin:auto;
+  font-size: 20px;
+  min-width:  500px;
+  background: rgb(17,190,208);
+  background: radial-gradient(circle, rgba(17,190,208,1) 0%, rgba(23,180,199,1) 49%, rgba(30,175,191,1) 100%);
+}
+.c-p{
+  width: 100%;
+  text-align: center;
+  font-family: 'Poor Story', cursive;
+  margin:auto;
+  font-size: 20px;
+  min-width:  500px;
+  background: rgb(17,190,208);
+  background: radial-gradient(circle, rgba(17,190,208,1) 0%, rgba(23,180,199,1) 49%, rgba(30,175,191,1) 100%);
+}
+.c-c{
+  width: 100%;
+  text-align: center;
+  font-family: 'Poor Story', cursive;
+  margin:auto;
+  font-size: 20px;
+  min-width:  500px;
+  background: rgb(17,190,208);
+  background: radial-gradient(circle, rgba(17,190,208,1) 0%, rgba(23,180,199,1) 49%, rgba(30,175,191,1) 100%);
+}
