@@ -14,7 +14,7 @@ function Atras(){
   if (num == 1){
     cuatro.classList.remove("hidden")
     uno.classList.add("hidden")
-    num = 3;
+    num = 4;
   } else if (num == 2){
     uno.classList.remove("hidden")
     dos.classList.add("hidden")
@@ -26,7 +26,7 @@ function Atras(){
   }else if (num == 4){
     cuatro.classList.remove("hidden")
     tres.classList.add("hidden")
-    num = 2;
+    num = 3;
   }
   
 }
