@@ -40,11 +40,11 @@ function Siguiente(){
     dos.classList.add("hidden")
     num = 3;
   } else if (num == 3){
-    uno.classList.remove("hidden")
+    cuatro.classList.remove("hidden")
     tres.classList.add("hidden")
     num = 4;
   } else if (num == 4){
-    tres.classList.remove("hidden")
+    uno.classList.remove("hidden")
     cuatro.classList.add("hidden")
     num = 1;
   }
