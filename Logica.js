@@ -4,7 +4,7 @@ let Next = document.querySelector(".adelante");
 let uno = document.querySelector(".HTML");
 let dos = document.querySelector(".CSS");
 let tres = document.querySelector(".JS");
-let cuatro = document.querySelector(".ANGULAR");
+let cuatro = document.querySelector(".Angular");
 let num = 1;
 
 Back = Back.addEventListener("click",Atras);
