@@ -262,6 +262,7 @@ input:hover::placeholder{
   margin:auto;
   height: 30px;
   width: 30px;
+  cursor:pointer;
   
 }
 
