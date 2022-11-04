@@ -315,7 +315,7 @@ input:hover::placeholder{
 .titulo{
   font-size:20px;
   padding:10px;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Pacifico';
 }
 .a img{
   margin:auto;
