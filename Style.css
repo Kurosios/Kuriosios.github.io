@@ -226,6 +226,16 @@ background: linear-gradient(90deg, rgba(4,3,20,1) 0%, rgba(10,65,89,1) 31%, rgba
 
 }
 .hidden{display:none;}
+
+.cont_skill img{ 
+    height:250px;
+    width:250px;
+  }
+
+.cont_skill p{ 
+  margin-left:2px;
+  text-align:left;
+}
 /*------------------------------------------------Proyectos-----------------------------------*/
 .cont_proyectos{ 
    width: 100%;
