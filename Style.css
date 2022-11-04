@@ -80,13 +80,14 @@ box-sizing: border-box;}
      padding: 0; }
 
 .b__c-a p{
-  align-self: center;
   font-size: 25px;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: bold;
-  Align-content:center;
   padding: 170px 20% 10% ;
   display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   
 
 }
