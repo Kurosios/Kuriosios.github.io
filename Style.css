@@ -233,6 +233,7 @@ background: linear-gradient(90deg, rgba(4,3,20,1) 0%, rgba(10,65,89,1) 31%, rgba
 .cont_skill p{ 
   margin-left:2px;
   text-align:left;
+  flex-shrink:0;
 }
 /*------------------------------------------------Proyectos-----------------------------------*/
 .cont_proyectos{ 
